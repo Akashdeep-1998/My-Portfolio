@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Akashdeep",
+    "occupation": "FULL-STACK DEVELOPER",
+    "description": "I design & develop my thoughts",
+    "image": "profilepic.jfif",
+    "bio": "Hi there! I'm Akash. I'm a full-stack Developer. I believe in doing instead of dreaming. I'm currently working in an MNC as an Intern in Software Services.",
+    "contactmessage": "Get in touch with me",
+    "email": "akashdeep.lpu@outlook.com",
+    "phone": "+91 9140313153",
+    "address": {
+      "street": "Nirala Nagar, Power House street.",
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "zip": "212108"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1m7YBg1pyh52qSaZmxtIpUvDJ7mFrlq97/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100010162720396",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akashdeep-1998/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/this__is__akash_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Akashdeep-1998",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Completed my bachelor's in Computer Science."
+      }
+    ],
+    "work": [
+      {
+        "company": "Eclerx",
+        "title": "Software Services Intern",
+        "years": "April 2021 - Present",
+        "description": "Work on managing and keep tracking the different types of software services & data used by the clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Node JS",
+        "level": "80%"
+      },
+      {
+        "name": "React JS",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pig Game (Javascript)",
+        "category": "Online game",
+        "image": "dice.png",
+        "url": "https://akashdeep-1998.github.io/dicegame/"
+      },
+      {
+        "title": "Bread & Butter (HTML & CSS)",
+        "category": "Online food delivery website",
+        "image": "bread&butter.jpg",
+        "url": "https://akashdeep-1998.github.io/BreadAndButter/"
+      },
+      {
+        "title": "Self made burger (React.js)",
+        "category": "Online burger delivery website",
+        "image": "burger.jfif",
+        "url": "https://my-burger-3d2e7.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker (React.js)",
+        "category": "Online covid-19 tracker globally",
+        "image": "covid.jpg",
+        "url": "https://covid19-tracker-2021.netlify.app/"
+      }
+    ]
+  }
+}
